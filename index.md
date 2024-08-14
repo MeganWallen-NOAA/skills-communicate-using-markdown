@@ -1,3 +1,6 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/MeganWallen-NOAA/skills-communicate-using-markdown)
+<!---this is a badge from https://shields.io/badges/git-hub-last-commit --->
+
 # Header 1
 ## Header 2
 ### Header 3
