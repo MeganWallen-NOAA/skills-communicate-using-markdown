@@ -5,4 +5,4 @@
 
 Regular text
 
-![Octocat Where's Waldocat](https://octodex.github.com/images/waldocat.png)
+![Image of Octocat Where's Waldocat](https://octodex.github.com/images/waldocat.png)
